@@ -1,0 +1,175 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "registration": [
+    {
+      "name": "divya",
+      "email": "vol@gmail.com",
+      "mobile": "09302026456",
+      "img": "",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Dev patel",
+      "email": "dev@gmail.com",
+      "mobile": "8877654386",
+      "img": "",
+      "password": "1717",
+      "id": 2
+    },
+    {
+      "name": "chhaya patel",
+      "email": "disku@gmail.com",
+      "mobile": "8640032004",
+      "img": "https://www.bing.com/aclick?ld=e8WnklPw4_FcgDALZiYSIU4TVUCUx1TsTVd4TPfLvYmdkdSspXdFQCPCyCMQVyl4ziCwHxGMTiM0bcQv9GCo-4XtBWSoYNAx_hduRniPaNGfYYC2M45ehqzNeeD69smNfNpwhWq3Rg3pncSEcDKcMLVbSVPcve7ioPxJ-iujhOmHfLEYtPaVEDICJGlJ0PxXB14PENxg&u=aHR0cCUzYSUyZiUyZnd3dy5teW50cmEuY29tJTJmRmFjZS1XYXNoLWFuZC1DbGVhbnNlciUyZk5ldXRyb2dlbmElMmZOZXV0cm9nZW5hLURlZXAtQ2xlYW4tRmFjaWFsLUNsZWFuc2VyLWZvci1Ob3JtYWwtdG8tT2lseS1Ta2luLS0tNTAtbWwlMmYyNDI3OTUxJTJmYnV5JTNmdXRtX3NvdXJjZSUzZGRtc19iaW5nX3Nob3BwaW5nJTI2dXRtX21lZGl1bSUzZGJpbmdfY3BjX3Nob3BwaW5nJTI2dXRtX2NhbXBhaWduJTNkQmluZ19TaG9wcGluZ19DYW1wYWlnbiUyNm1zY2xraWQlM2RiZjkxODE4YmMwZTkxNzM3MDYyZmU0MjdjZjcwOGMyOSUyNnV0bV90ZXJtJTNkNDU3ODcxMDA1NDY1MTI2NiUyNnV0bV9jb250ZW50JTNkUGVyc29uYWwlMjUyMENhcmU&rlid=bf91818bc0e91737062fe427cf708c29",
+      "password": "6789",
+      "id": 3
+    },
+    {
+      "name": "sakshi",
+      "email": "vol@gmail.com",
+      "mobile": "09302026456",
+      "img": "https://th.bing.com/th/id/R.0c5909dc288bcd4d25166790fee853d1?rik=Mf8bB24X%2bpWCAQ&riu=http%3a%2f%2fwww.wallpaperbetter.com%2fwallpaper%2f50%2f40%2f881%2fbeautiful-red-hair-girl-smile-2K-wallpaper.jpg&ehk=A7%2fJFt0%2bz1sriShQ3Ok14eso8nU6gCzwv5jqNuPvCnw%3d&risl=&pid=ImgRaw&r=0",
+      "password": "7777",
+      "id": 4
+    },
+    {
+      "name": "chhaya gurjar",
+      "email": "vol@gmail.com",
+      "mobile": "09302026456",
+      "img": "https://miro.medium.com/v2/resize:fit:495/0*xFuo_UNWchLZ8bqS.jpeg",
+      "password": "sdsd",
+      "id": 7
+    },
+    {
+      "name": "chhaya",
+      "email": "cp123@gmail.com",
+      "mobile": "7879732166",
+      "img": "https://miro.medium.com/v2/resize:fit:495/0*xFuo_UNWchLZ8bqS.jpeg",
+      "password": "divi",
+      "id": 8
+    },
+    {
+      "name": "Rajesh patel",
+      "email": "rp123@gmail.com",
+      "mobile": "8827658520",
+      "img": "https://i.pinimg.com/originals/92/82/77/92827760ca3b9c5a643bfb17bcd015c7.jpg",
+      "password": "rajesh",
+      "id": 9
+    },
+    {
+      "name": "rajesh",
+      "email": "Rp356@gmail.com",
+      "mobile": "8932826783",
+      "img": "https://th.bing.com/th/id/OIP.5T4jsrSBebw7Fox01LwvLQHaEo?rs=1&pid=ImgDetMain",
+      "password": "1234",
+      "id": 10
+    }
+  ],
+  "Customer": [
+    {
+      "name": "chhaya patel",
+      "email": "cp@gmail.com",
+      "money": "700",
+      "status": "On delivery",
+      "date": "3/5/2023",
+      "id": 2
+    },
+    {
+      "name": "Deeksha patel",
+      "email": "hum@gmail.com",
+      "money": "8877",
+      "status": "booked",
+      "date": "6/8/2023",
+      "id": 3
+    },
+    {
+      "name": "rajesh patel",
+      "email": "rp123@gmail.com",
+      "money": "8877",
+      "status": "booked",
+      "date": "2024-02-03T21:18",
+      "month": "2024-02",
+      "id": 4
+    },
+    {
+      "name": "Mohit patel",
+      "email": "mp454@gmail.com",
+      "money": "7837",
+      "status": "booked",
+      "date": "2024-02-04T14:20",
+      "month": "2024-02",
+      "id": 6
+    },
+    {
+      "name": "pooja ",
+      "email": "pj172@gmail.com",
+      "money": "800",
+      "status": "booked",
+      "date": "2024-02-08T17:32",
+      "month": "2024-03",
+      "id": 7
+    },
+    {
+      "name": "ram",
+      "email": "dh245@gmail.com",
+      "money": "700",
+      "status": "delivered",
+      "date": "2024-02-24T17:32",
+      "month": "2024-06",
+      "id": 8
+    },
+    {
+      "name": "priyanshi",
+      "email": "js466@gmail.com",
+      "money": "6000",
+      "status": "booked",
+      "date": "2024-02-25T17:35",
+      "month": "2024-11",
+      "id": 9
+    },
+    {
+      "name": "riya",
+      "email": "riya784@gmail.com",
+      "money": "9002",
+      "status": "booked",
+      "date": "2024-02-22T17:37",
+      "month": "2024-08",
+      "id": 10
+    },
+    {
+      "name": "Deeksha patel",
+      "email": "dmdm@gmail.com",
+      "money": "7837",
+      "status": "booked",
+      "date": "2024-02-09T16:52",
+      "month": "",
+      "id": 11
+    },
+    {
+      "name": "Deeksha patel",
+      "email": "deekshs74@gmail.com",
+      "money": "4397",
+      "status": "booked",
+      "date": "2024-03-15T15:17",
+      "month": "",
+      "id": 12
+    }
+  ]
+}
